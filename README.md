@@ -2,8 +2,6 @@
 
 ## 📊 Algorithm Visualizer [Try It Now](https://visualizeralgorithm.netlify.app/)
 
---------------------
-
 **_Algoritm Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
 
 1. Selection Sort.
