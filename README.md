@@ -1,6 +1,6 @@
 # Algorithm Visualizer
 
-## 📊 Algorithm Visualizer [Try It Now](https://garvit-exe.github.io/algorithm-visualizer/)
+## 📊 Algorithm Visualizer [Try It Now](https://visualizeralgorithm.netlify.app/)
 
 --------------------
 
